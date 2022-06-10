@@ -1,7 +1,7 @@
 # Targeted Marketing using Machine Learning
 
 # Objective
-Identify 3 - 4 distinct customer segment using bank's data for targeted marketing. 
+Identify 3 - 4 distinct customer segments using bank's data for targeted marketing. 
 
 
 # ML Models
