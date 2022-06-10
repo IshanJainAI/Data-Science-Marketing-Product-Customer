@@ -2,9 +2,9 @@
 
 
 # What will this repo contain?
-1. AL and ML use cases for Marketing such as promotional effectiveness etc..
-2. Product Analytics and sales forecasting
-3. Customer Analytics
+1. AL and ML use cases for marketing such as promotional effectiveness etc..
+2. Product analytics and sales forecasting
+3. Customer analytics
 
 
 # Author
