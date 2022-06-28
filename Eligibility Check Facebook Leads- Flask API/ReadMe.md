@@ -21,3 +21,6 @@ That data can be used to GET, PUT, POST and DELETE data types, which refers to t
 4. Flask is a Python web framework built for rapid development whereas Django is built for easy and simple projects.
 5. FastAPI is actually known as one of the fastest Python web frameworks. Better performance than Flask API. 
 
+# Flask Template 
+API is used for assessing Online Marketing Lead Eligibility. 
+This is designed as a simple template for better readability. 
