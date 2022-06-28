@@ -1,10 +1,11 @@
 _version__ = '0.0.1'
-__author__ = 'Ishan Jain| Kinara Capital'
-__lastupdate__ = '7th Feb 2022'
+__author__ = 'Ishan Jain'
+__lastupdate__ = '27th June 2022'
 
 """
-API is used for assessing Online Leads Eligibility. 
+API is used for assessing Online Marketing Lead Eligibility. 
 
+This is designed as a simple template for better readability. 
 """
 
 from flask import Blueprint, request, jsonify
