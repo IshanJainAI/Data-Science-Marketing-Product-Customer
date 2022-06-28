@@ -19,6 +19,7 @@ This repo contains the data science and analytical use-cases that author has att
 1. AL and ML use cases for marketing such as promotional effectiveness etc..
 2. Product analytics and sales forecasting
 3. Customer analytics
+4. Recommendation System
 
 
 # Author
