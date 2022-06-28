@@ -22,4 +22,11 @@ https://www.youtube.com/watch?v=BthUPVwA59s
 # Building Recommendation System using BigQueryML
 https://www.youtube.com/watch?v=sEx8RwvT_-8
 
-
+# Author
+Ishan Jain
+ 
+# LinkedIn
+https://www.linkedin.com/in/ishanjainofficial/
+ 
+# Medium.com
+https://medium.com/@ishanjain-ai
